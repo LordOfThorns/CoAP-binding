@@ -11,7 +11,7 @@ https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.
 The authorship of the developers who created the original binding that was used as the basis for the project is preserved in the files, as is information about the original license.
 
 What was tried to do in short:
-- rewrite all responses and requests and their processing into CoaP implementation using Californium;
+- rewrite all responses and requests and their processing into CoAP implementation using Californium;
 - change configuration where needed and structure of classes which represent the request/response content or somehow relate to it.
 
 Current state of the work:
