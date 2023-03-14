@@ -1,5 +1,5 @@
 # CoAP-binding
-CoAP binding for openHAB. Is heavily based on HTTPbinding (see description)
+CoAP binding for openHAB. Is heavily based on HTTP binding (see description)
 
 
 !_______IMPORTANT WARNING_______!:
